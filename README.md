@@ -26,7 +26,7 @@ When `myfile.md` is like following,
 # 1. Title AAAA
 ## 1.1. Title BBBB
 ## 1.2. Title CCCC
-# 2.1 Title DDDD
+# 2.1. Title DDDD
 ```
 
 Broken numbers will be fixed.
