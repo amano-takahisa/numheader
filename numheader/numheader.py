@@ -13,7 +13,6 @@ def main(**kwargs):
     numbers: list[int] = [0, 0, 0, 0, 0, 0, 0]
     level_above = 0
     skip = kwargs.get("skip", [])
-    print(skip)
     with open(kwargs["file"], mode="r") as file:
         i = 0
         # for line in file:
